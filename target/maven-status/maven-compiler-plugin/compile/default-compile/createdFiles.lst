@@ -1,0 +1,8 @@
+testScenarios\MouseHover.class
+testScenarios\Rediff.class
+testScenarios\ReadFrmWebTable.class
+testScenarios\HandlingDynData.class
+testScenarios\CompareWecTable.class
+testScenarios\SwitchingWindows.class
+testScenarios\ThruTextFile.class
+testScenarios\DP.class
