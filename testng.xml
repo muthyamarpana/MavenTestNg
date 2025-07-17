@@ -9,6 +9,7 @@
       <class name="testSce.ReadFrmWebTable"/>
       <class name="testSce.SwitchingWin"/>
       <class name="testSce.MouseHover"/>
+      <class name="testSce.Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
